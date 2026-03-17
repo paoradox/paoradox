@@ -4,8 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-<img src="https://flyclipart.com/thumb2/gamerxbluefire-on-scratch-179031.png" width="235" height="135" alt="Gengar!">
-<img src="https://archives.bulbagarden.net/media/upload/c/c7/Ani302MS.png" width="235" height="135" alt="Weavile!">   
+<img src="https://flyclipart.com/thumb2/gamerxbluefire-on-scratch-179031.png" width="235" height="135" alt="Gengar!">  
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zenpao&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Zen"/> </p>
