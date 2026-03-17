@@ -63,6 +63,7 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
     <img src="https://cdn.cdnlogo.com/logos/a/14/affinity-photo.svg" title="Affinity Photo" width="38" height="38"/>
     <img src="https://cdn.cdnlogo.com/logos/a/35/affinity-designer.svg" title="Affinity Designer" width="38" height="38"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/figma.png" title="Figma" width="40" height="40"/>
+    <img src="https://cdnlogo.com/logos/c/41/canva.svg" title="Canva" width="38" height="38"/>
 </p>
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
