@@ -18,7 +18,7 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
 <p align=“center”>
 <a href="https://www.linkedin.com/in/paoradox" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.behance.net/paoradox" target="_blank"><img src="https://img.shields.io/badge/Behance-1DA1F2?logo=behance&logoColor=white" alt="Behance"/></a>
-<a href="https://github.com/paoradox?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Github-Gray?logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://paoradox.github.io" target="_blank"><img src="https://img.shields.io/badge/Github-Gray?logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.beacons.ai/paoradox" target="_blank"><img src="https://img.shields.io/badge/Beacons-black?logo=beacons&logoColor=white" alt="Beacons"/></a>
 <!--- <a href="https://www.raket.ph/paoradox" target="_blank"><img src="https://img.shields.io/badge/RaketPH-orange?logo=beacons&logoColor=white" alt="RaketPH"/></a> --->
 </p>
