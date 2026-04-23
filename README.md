@@ -1,7 +1,7 @@
-<!---
+<!--
 paoradox/paoradox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
 
 <p align="center">
 <img src="https://flyclipart.com/thumb2/gamerxbluefire-on-scratch-179031.png" width="235" height="135" alt="Gengar!">  
@@ -20,7 +20,7 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
 <a href="https://www.behance.net/paoradox" target="_blank"><img src="https://img.shields.io/badge/Behance-1DA1F2?logo=behance&logoColor=white" alt="Behance"/></a>
 <a href="https://paoradox.github.io" target="_blank"><img src="https://img.shields.io/badge/Github-Gray?logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.beacons.ai/paoradox" target="_blank"><img src="https://img.shields.io/badge/Beacons-black?logo=beacons&logoColor=white" alt="Beacons"/></a>
-<!--- <a href="https://www.raket.ph/paoradox" target="_blank"><img src="https://img.shields.io/badge/RaketPH-orange?logo=beacons&logoColor=white" alt="RaketPH"/></a> --->
+<!-- <a href="https://www.raket.ph/paoradox" target="_blank"><img src="https://img.shields.io/badge/RaketPH-orange?logo=beacons&logoColor=white" alt="RaketPH"/></a> -->
 </p>
 
 <h3 align="left">Tools of the trade:</h3>
@@ -29,19 +29,19 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" title="CSS" width="60" height="60"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" title="JavaScript" width="60" height="60"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" title="BootstrapCSS" width="55" height="55"/>
-    <!---
+    <!--
     <img src="https://raw.githubusercontent.com/github/explore/ad9cd7e959a88047c830c3a9cc4e9ffcf5e644f7/topics/bulma/bulma.png" title="BulmaCSS" width="50" height="50"/>
     <img src="https://cdn.cdnlogo.com/logos/t/58/tailwind-css.svg" title="TailwindCSS UI" width="50" height="50"/>
-    --->
-    <!--- <img src="https://flet.dev/img/logo.svg" title="Flet" width="50" height="50"/> --->
+    -->
+    <!-- <img src="https://flet.dev/img/logo.svg" title="Flet" width="50" height="50"/> --->
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" title="PHP" width="55" height="55"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" title="Flask" width="55" height="55"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" title="Python3" width="50" height="50"/>
-    <!---
+    <!--
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" title="C#" width="55" height="55"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" title="Java" width="55" height="55"/>
     <img src="https://github.com/dotnet/docs/blob/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/vb.svg" title="VB.Net" width="40" height="40"/>
-    --->
+    -->
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" title="PyCharm" width="40" height="40"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" title="Sublime Text 3" width="40" height="40"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/notepad%2B%2B.png" title="Notepad++" width="40" height="40"/>
-    <!--- <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" title="NodeJS" width="40" height="40"/> --->
+    <!-- <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" title="NodeJS" width="40" height="40"/> -->
     <img src="https://cdn.cdnlogo.com/logos/n/72/netbeans.svg" title="Netbeans" width="40" height="40"/>
     <img src="https://cdn.cdnlogo.com/logos/t/12/terminal.svg" title="Bash" width="40" height="40"/>
     <img src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg" title="MySQL" width="45" height="45"/>
