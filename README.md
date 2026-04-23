@@ -24,7 +24,7 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
 </p>
 
 <h3 align="left">Tools of the trade:</h3>
-<p align="center"> 
+<p align="text-align:center;"> 
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" title="HTML5" width="60" height="60"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" title="CSS" width="60" height="60"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" title="JavaScript" width="60" height="60"/>
@@ -44,14 +44,14 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
     --->
 </p>
 
-<p align="center">
+<p align="text-align:center;>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" title="VS Code" width="40" height="40"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" title="PyCharm" width="40" height="40"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" title="Sublime Text 3" width="40" height="40"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/notepad%2B%2B.png" title="Notepad++" width="40" height="40"/>
     <!--- <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" title="NodeJS" width="40" height="40"/> --->
     <img src="https://cdn.cdnlogo.com/logos/n/72/netbeans.svg" title="Netbeans" width="40" height="40"/>
-    <img src="https://cdn.cdnlogo.com/logos/t/12/terminal.svg" title="Batch Terminal" width="40" height="40"/>
+    <img src="https://cdn.cdnlogo.com/logos/t/12/terminal.svg" title="Bash" width="40" height="40"/>
     <img src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg" title="MySQL" width="45" height="45"/>
     <img src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg" title="SQLite" width="45" height="45"/>
     <img src="https://cdn.cdnlogo.com/logos/m/84/microsoft-access.svg" title="MS Access" width="40" height="40"/>
@@ -59,7 +59,7 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
     <img src="https://cdn.cdnlogo.com/logos/s/63/stack-overflow.svg" title="Stackoverflow" width="40" height="40"/>
 </p>
 
-<p align="center">
+<p align="text-align:center;">
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/after-effects.png" title="Adobe After Effects" width="40" height="40"/>
     <img src="https://cdn.cdnlogo.com/logos/a/64/adobe-premiere-pro-cc.svg" title="Adobe Premiere" width="40" height="40"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/photoshop.png" title="Adobe Photoshop" width="40" height="40"/>
