@@ -67,7 +67,7 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
 </p>
 
 <p align="center">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=paoradox&show_icons=true&theme=dark&locale=en&layout=compact" alt="GitHub Languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paoradox&show_icons=true&theme=dark&locale=en&layout=compact" alt="GitHub Languages"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
