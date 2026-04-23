@@ -53,7 +53,7 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
     <img src="https://cdn.cdnlogo.com/logos/n/72/netbeans.svg" title="Netbeans" width="40" height="40"/>
     <img src="https://cdn.cdnlogo.com/logos/t/12/terminal.svg" title="Batch Terminal" width="40" height="40"/>
     <img src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg" title="MySQL" width="45" height="45"/>
-    <img src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg" title="SQLite" width="45" height="45/>
+    <img src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg" title="SQLite" width="45" height="45"/>
     <img src="https://cdn.cdnlogo.com/logos/m/84/microsoft-access.svg" title="MS Access" width="40" height="40"/>
     <img src="https://cdn.cdnlogo.com/logos/c/38/ChatGPT.svg" title="ChatGPT" width="40" height="40"/>
     <img src="https://cdn.cdnlogo.com/logos/s/63/stack-overflow.svg" title="Stackoverflow" width="40" height="40"/>
@@ -67,9 +67,9 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
     <img src="https://cdn.cdnlogo.com/logos/a/14/affinity-photo.svg" title="Affinity Photo" width="38" height="38"/>
     <img src="https://cdn.cdnlogo.com/logos/a/35/affinity-designer.svg" title="Affinity Designer" width="38" height="38"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/figma.png" title="Figma" width="40" height="40"/>
-    <img src="https://cdnlogo.com/logos/c/41/canva.svg" title="Canva" width="38" height="38"/>
+    <img src="https://cdn.cdnlogo.com/logos/c/41/canva.svg" title="Canva" width="38" height="38"/>
 </p>
- 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
