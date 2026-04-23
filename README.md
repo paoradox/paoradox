@@ -31,7 +31,6 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" title="PHP" width="55" height="55"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" title="Flask" width="55" height="55"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" title="Python3" width="50" height="50"/>
-
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" title="VS Code" width="40" height="40"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" title="PyCharm" width="40" height="40"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" title="Sublime Text 3" width="40" height="40"/>
@@ -44,7 +43,6 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
     <img src="https://cdn.cdnlogo.com/logos/c/63/caude-ai.svg" title="Claude" width="40" height="40"/>
     <img src="https://cdn.cdnlogo.com/logos/p/83/perplexity.png" title="Perplexity AI" width="40" height="40"/>
     <img src="https://cdn.cdnlogo.com/logos/s/63/stack-overflow.svg" title="StackOverflow" width="40" height="40"/>
-
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/after-effects.png" title="Adobe After Effects" width="40" height="40"/>
     <img src="https://cdn.cdnlogo.com/logos/a/64/adobe-premiere-pro-cc.svg" title="Adobe Premiere" width="40" height="40"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/photoshop.png" title="Adobe Photoshop" width="40" height="40"/>
