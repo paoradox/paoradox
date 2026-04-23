@@ -43,6 +43,7 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
     <img src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg" title="SQLite" width="45" height="45"/>
     <img src="https://cdn.cdnlogo.com/logos/m/84/microsoft-access.svg" title="MS Access" width="40" height="40"/>
     <img src="https://cdn.cdnlogo.com/logos/c/38/ChatGPT.svg" title="ChatGPT" width="40" height="40"/>
+    <img src="https://cdn.cdnlogo.com/logos/c/63/caude-ai.svg" title="Claude" width="40" height="40"/>
     <img src="https://cdn.cdnlogo.com/logos/p/83/perplexity.png" title="Perplexity AI" width="40" height="40"/>
     <img src="https://cdn.cdnlogo.com/logos/s/63/stack-overflow.svg" title="StackOverflow" width="40" height="40"/>
 </p>
