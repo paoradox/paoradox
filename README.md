@@ -57,7 +57,7 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paoradox&theme=tokyonight" alt="GitHub Streak"/>
+    <img align="center" src="https://streak-stats.demolab.com/?user=paoradox&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
