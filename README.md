@@ -45,7 +45,7 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
 <div align="center">
 
 | | | | | | | |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/tools/after-effects.png" title="Adobe After Effects" width="40" height="40"/> | <img src="https://cdn.cdnlogo.com/logos/a/64/adobe-premiere-pro-cc.svg" title="Adobe Premiere" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/tools/photoshop.png" title="Adobe Photoshop" width="40" height="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" title="Adobe Illustrator" width="40" height="40"/> | <img src="https://cdn.cdnlogo.com/logos/a/14/affinity-photo.svg" title="Affinity Photo" width="38" height="38"/> | <img src="https://cdn.cdnlogo.com/logos/a/35/affinity-designer.svg" title="Affinity Designer" width="38" height="38"/> | <img src="https://cdn.cdnlogo.com/logos/c/41/canva.svg" title="Canva" width="38" height="38"/> |
 
 </div>
