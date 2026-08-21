@@ -22,7 +22,7 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=50&section=header&text=Connect%20with%20me&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/paoradox" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/paoradox" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 <a href="https://www.behance.net/paoradox" target="_blank"><img src="https://img.shields.io/badge/Behance-1DA1F2?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
 <a href="https://paoradox.github.io" target="_blank"><img src="https://img.shields.io/badge/Github-Gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <!-- <a href="https://www.beacons.ai/paoradox" target="_blank"><img src="https://img.shields.io/badge/Beacons-black?style=for-the-badge&logo=beacons&logoColor=white" alt="Beacons"/></a> -->
