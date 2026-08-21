@@ -53,7 +53,7 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=paoradox&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=paoradox&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
