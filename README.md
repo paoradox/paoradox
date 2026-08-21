@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=paoradox&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Zen"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=paoradox&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Zen" height="34"/> </p>
 
 <!-- <h3 align="left">About Me:</h3> -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=50&section=header&text=About%20Me&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=fadeIn" width="100%"/>
