@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><img src="https://komarev.com/ghpvc/?username=paoradox&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Zen"/> </p>
 
 <h3 align="left">About Me:</h3>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=70&section=header&text=About%20Me&fontSize=28&fontColor=c0caf5&fontAlign=10&fontAlignY=42&animation=fadeIn" width="100%"/>
 
 Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m currently on a much needed search for a cross-platform software development stack. If you're curious on what I do, please don't hesitate to visit the links below.
 
