@@ -50,18 +50,18 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="left">Stats:</h3>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=paoradox&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    <img align="center" src="" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paoradox&theme=tokyonight" alt="GitHub Streak"/>
+    <img align="center" src="" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paoradox&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="GitHub Languages"/>
+    <img align="center" src="" alt="GitHub Languages"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
