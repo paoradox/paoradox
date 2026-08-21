@@ -235,7 +235,7 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
 <h3 align="left">Stats:</h3>
 
 <p align="center">
-    <img align="center" src="" alt="GitHub Stats"/>
+    <img align="center" src="https://github-stats-extended.vercel.app/api?username=paoradox&show_icons=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
