@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m currently on a much needed search for a cross-platform software development stack. If you're curious on what I do, please don't hesitate to visit the links below.
 
 <!-- <h3 align="left">Connect with me:</h3> -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=50&section=header&text=Connect%20with%20me&fontSize=20&fontColor=c0caf5&fontAlign=50&fontAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=50&section=header&text=About%20Me&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/paoradox" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
