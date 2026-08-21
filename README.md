@@ -49,72 +49,72 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
     <img
       src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg"
       title="HTML5"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg"
       title="CSS"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/boostrap.svg"
       title="BootstrapCSS"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png"
       title="PHP"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg"
       title="Python3"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg"
       title="VS Code"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/pycharm.svg"
       title="PyCharm"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/sublime.svg"
       title="Sublime Text 3"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/notepad%2B%2B.png"
       title="Notepad++"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
 </p>
@@ -125,64 +125,64 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
     <img
       src="https://cdn.cdnlogo.com/logos/t/12/terminal.svg"
       title="Bash"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg"
       title="MySQL"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg"
       title="SQLite"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://cdn.cdnlogo.com/logos/m/84/microsoft-access.svg"
       title="MS Access"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://cdn.cdnlogo.com/logos/c/38/ChatGPT.svg"
       title="ChatGPT"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://cdn.cdnlogo.com/logos/c/63/claude-ai.svg"
       title="Claude"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://cdn.cdnlogo.com/logos/p/83/perplexity.png"
       title="Perplexity AI"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://cdn.cdnlogo.com/logos/s/63/stack-overflow.svg"
       title="StackOverflow"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
 </p>
@@ -193,56 +193,56 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
     <img
       src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/tools/after-effects.png"
       title="Adobe After Effects"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://cdn.cdnlogo.com/logos/a/64/adobe-premiere-pro-cc.svg"
       title="Adobe Premiere"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/tools/photoshop.png"
       title="Adobe Photoshop"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"
       title="Adobe Illustrator"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://cdn.cdnlogo.com/logos/a/14/affinity-photo.svg"
       title="Affinity Photo"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://cdn.cdnlogo.com/logos/a/35/affinity-designer.svg"
       title="Affinity Designer"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
   <span>
     <img
       src="https://cdn.cdnlogo.com/logos/c/41/canva.svg"
       title="Canva"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
   </span>
 </p>
