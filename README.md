@@ -9,13 +9,13 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=paoradox&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Zen"/> </p>
 
-<h3 align="left">About Me:</h3>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=70&section=header&text=About%20Me&fontSize=28&fontColor=c0caf5&fontAlign=10&fontAlignY=42&animation=fadeIn" width="100%"/>
+<!-- <h3 align="left">About Me:</h3> -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=70&section=header&text=About%20Me&fontSize=22&fontColor=c0caf5&fontAlign=10&fontAlignY=42&animation=fadeIn" width="100%"/>
 
 Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m currently on a much needed search for a cross-platform software development stack. If you're curious on what I do, please don't hesitate to visit the links below.
 
 <!-- <h3 align="left">Connect with me:</h3> -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=70&section=header&text=Connect%20with%20me&fontSize=28&fontColor=c0caf5&fontAlign=10&fontAlignY=42&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=70&section=header&text=Connect%20with%20me&fontSize=22&fontColor=c0caf5&fontAlign=10&fontAlignY=42&animation=fadeIn" width="100%"/>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/paoradox" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -25,7 +25,7 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
 </p>
 
 <!-- <h3 align="left">Tools of the trade:</h3> -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=70&section=header&text=Tools%20of%20the%20Trade&fontSize=28&fontColor=c0caf5&fontAlign=10&fontAlignY=42&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=70&section=header&text=Tools%20of%20the%20Trade&fontSize=22&fontColor=c0caf5&fontAlign=10&fontAlignY=42&animation=fadeIn" width="100%"/>
 
 <!-- ============================================================ -->
 <!-- TECH STACK — flexbox layout (mobile-friendly, word-wrapped)  -->
@@ -245,7 +245,8 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
 
 </div>
 
-<h3 align="left">Stats:</h3>
+<!-- <h3 align="left">Stats:</h3> -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=70&section=header&text=Stats&fontSize=22&fontColor=c0caf5&fontAlign=10&fontAlignY=42&animation=fadeIn" width="100%"/>
 
 <!-- ============================================================ -->
 <!-- GITHUB STATS — using github-stats-extended (actively         -->
