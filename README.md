@@ -254,17 +254,14 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
 
 <p align="center">
     <img src="https://github-stats-extended.vercel.app/api?username=paoradox&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=paoradox&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=paoradox&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=paoradox&hide_border=true&background=00000000&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-    <img src="https://github-stats-extended.vercel.app/api?username=paoradox&show_icons=true&hide_border=true&bg_color=00000000&title_color=8a2be2&icon_color=8a2be2&text_color=c9c9c9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=paoradox&layout=compact&hide_border=true&bg_color=00000000&title_color=8a2be2&text_color=c9c9c9" alt="Top Languages" height="180"/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=paoradox&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
