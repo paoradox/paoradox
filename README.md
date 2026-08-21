@@ -24,6 +24,16 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
 
 <h3 align="left">Tools of the trade:</h3>
 
+<!-- ============================================================ -->
+<!-- TECH STACK — flexbox layout (mobile-friendly, word-wrapped)  -->
+<!--                                                                -->
+<!-- To ADD an icon:    copy one <span>...</span> block below,    -->
+<!--                     paste it, then edit src / title.          -->
+<!-- To REMOVE an icon: delete its <span>...</span> block.         -->
+<!-- Order doesn't matter — icons wrap to the next line on their   -->
+<!-- own, so you never need to worry about row/column counts.      -->
+<!-- ============================================================ -->
+
 <div align="center">
 
 <!-- Languages, Frameworks & Editors -->
@@ -234,16 +244,27 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
 
 <h3 align="left">Stats:</h3>
 
+<!-- ============================================================ -->
+<!-- GITHUB STATS — using github-stats-extended (actively         -->
+<!-- maintained successor to github-readme-stats) + streak-stats.  -->
+<!--                                                                -->
+<!-- Two theme options below — keep ONE version of each card,      -->
+<!-- delete the other. Swap "paoradox" if the username changes.    -->
+<!-- ============================================================ -->
+
 <p align="center">
-    <img align="center" src="https://github-stats-extended.vercel.app/api?username=paoradox&show_icons=true" alt="GitHub Stats"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=paoradox&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=paoradox&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-    <img align="center" src="" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=paoradox&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=paoradox&hide_border=true&background=00000000&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-    <img align="center" src="" alt="GitHub Languages"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=paoradox&show_icons=true&hide_border=true&bg_color=00000000&title_color=8a2be2&icon_color=8a2be2&text_color=c9c9c9" alt="GitHub Stats" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=paoradox&layout=compact&hide_border=true&bg_color=00000000&title_color=8a2be2&text_color=c9c9c9" alt="Top Languages" height="180"/>
 </p>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
