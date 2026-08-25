@@ -171,6 +171,14 @@ Hi! I’m @paoradox . A self-taught programmer and graphic designer. I’m curre
   </span>
   <span>
     <img
+      src="https://cdn.cdnlogo.com/logos/d/9/deepseek-icon.svg"
+      title="DeepSeek"
+      width="55"
+      height="55"
+    />
+  </span>
+  <span>
+    <img
       src="https://cdn.cdnlogo.com/logos/p/83/perplexity.png"
       title="Perplexity AI"
       width="55"
